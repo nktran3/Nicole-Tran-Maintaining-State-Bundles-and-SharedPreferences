@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Nicole Tran - Maintaining State, Bundles and SharedPreferences</string>
+    <string name="edit_text">Enter text</string>
+    <string name="button">Random image</string>
 </resources>
